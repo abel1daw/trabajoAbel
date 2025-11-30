@@ -1,6 +1,6 @@
-import { router } from './router.js';
-import { Navbar } from './components/Navbar.js';
-import Footer from './components/Footer.js'; 
+import { router } from './router';
+import { Navbar } from './components/Navbar';
+import Footer from './components/Footer'; 
 import './styles/style.css';
 
 window.addToTeam = function (id) {
