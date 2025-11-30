@@ -1,4 +1,4 @@
-import { router } from './router';
+import { router } from './router.js';
 import { Navbar } from './components/Navbar';
 import Footer from './components/Footer'; 
 import './styles/style.css';
